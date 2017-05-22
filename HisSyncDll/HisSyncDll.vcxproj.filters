@@ -39,6 +39,18 @@
     <ClCompile Include="Meter.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="OrificMeter.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SmartMeter.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AnalogSubItem.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ValveSubItem.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h">
@@ -54,6 +66,18 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="Meter.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OrificMeter.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SmartMeter.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AnalogSubItem.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ValveSubItem.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

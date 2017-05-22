@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HisSyncDll", "HisSyncDll\HisSyncDll.vcxproj", "{3FB6C31E-7163-48FD-A019-CA91DB70F668}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dllTest", "dllTest\dllTest.vcxproj", "{5A4F2EC9-D8A6-4411-8AC5-0DE5A1C955CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -13,6 +15,10 @@ Global
 		{3FB6C31E-7163-48FD-A019-CA91DB70F668}.Debug|Win32.Build.0 = Debug|Win32
 		{3FB6C31E-7163-48FD-A019-CA91DB70F668}.Release|Win32.ActiveCfg = Release|Win32
 		{3FB6C31E-7163-48FD-A019-CA91DB70F668}.Release|Win32.Build.0 = Release|Win32
+		{5A4F2EC9-D8A6-4411-8AC5-0DE5A1C955CB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5A4F2EC9-D8A6-4411-8AC5-0DE5A1C955CB}.Debug|Win32.Build.0 = Debug|Win32
+		{5A4F2EC9-D8A6-4411-8AC5-0DE5A1C955CB}.Release|Win32.ActiveCfg = Release|Win32
+		{5A4F2EC9-D8A6-4411-8AC5-0DE5A1C955CB}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
