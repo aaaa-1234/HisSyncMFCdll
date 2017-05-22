@@ -38,3 +38,7 @@
 
 #include <afxsock.h>            // MFC 套接字扩展
 
+#include <Windows.h>			//windows相关资源扩展
+#include <afxmt.h>
+
+#include "resource.h"
