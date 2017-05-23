@@ -1,6 +1,6 @@
 #include "StdAfx.h"
 #include "HisDataSample.h"
-#include <sqlite3.h>
+#include "CppSQLite3.h"
 
 CHisDataSample::CHisDataSample(void)
 	: m_nCurrentStatus(sysSalveStatus)

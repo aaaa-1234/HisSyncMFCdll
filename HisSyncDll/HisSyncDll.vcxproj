@@ -106,6 +106,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="AnalogSubItem.cpp" />
+    <ClCompile Include="CppSQLite3.cpp" />
     <ClCompile Include="dllmain.cpp">
       <CompileAsManaged Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</CompileAsManaged>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
@@ -127,6 +128,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AnalogSubItem.h" />
+    <ClInclude Include="CppSQLite3.h" />
     <ClInclude Include="HisDataSample.h" />
     <ClInclude Include="Meter.h" />
     <ClInclude Include="OrificMeter.h" />
